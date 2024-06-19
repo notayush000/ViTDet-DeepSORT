@@ -36,7 +36,7 @@ Prerequisites:
 Steps:
 1. Clone the Repository:
 ```
-git clone https://github.com/notayush000/Object-Detection-with-Vision-Transformers-and-DeepSORT.git
+git clone https://github.com/notayush000/ViTDet-DeepSORT.git
 ```
 
 2. Install PyTorch
