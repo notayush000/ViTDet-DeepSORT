@@ -11,6 +11,7 @@ In our project, we leverage a vision transformer-based real-time object detector
 </div>
 
 <br/>
+
 ![DeepSORT](https://github.com/notayush000/Object-Detection-with-Vision-Transformers-and-DeepSORT/assets/58353326/181eee5a-d522-4851-b01d-8d2add6dc879)
 <div align="center">
  DeepSORT
