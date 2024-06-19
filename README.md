@@ -5,6 +5,18 @@ Nowadays, object detection plays a crucial role in enabling computers to underst
 
 In our project, we leverage a vision transformer-based real-time object detector called REDETR to identify objects. Vision transformers have achieved state-of-the-art (SOTA) performance in object detection. To track the detected objects, we employ the DeepSORT algorithm. DeepSORT excels at assigning unique identifiers to each object, allowing it to differentiate between them even in crowded scenes.
 
+![RT-DETR](https://github.com/notayush000/Object-Detection-with-Vision-Transformers-and-DeepSORT/assets/58353326/b13d7927-9be1-4162-a874-eb263eac7b72)
+<div align="center">
+ RT-DETR
+</div>
+
+<br/>
+![DeepSORT](https://github.com/notayush000/Object-Detection-with-Vision-Transformers-and-DeepSORT/assets/58353326/181eee5a-d522-4851-b01d-8d2add6dc879)
+<div align="center">
+ DeepSORT
+</div>
+
+
 
 ## Resources
 
@@ -53,5 +65,7 @@ A dialog box will appear after the program finishes loading.
 **Note:** Processing with the CPU might take slightly longer compared to using an NVIDIA GPU.
 
 ## Demo
-
-
+![demo](https://github.com/notayush000/Object-Detection-with-Vision-Transformers-and-DeepSORT/assets/58353326/05f5a70b-8136-4300-93a6-9740d70ff5a2)
+<div align="center">
+ Real-Time object detection and Tracking
+</div>
